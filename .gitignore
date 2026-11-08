@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Configuración y secretos
+.env
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
